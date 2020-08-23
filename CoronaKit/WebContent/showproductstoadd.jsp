@@ -13,6 +13,10 @@
 <div align="right">
 <label><Strong>Welcome      </Strong></label><Strong><c:out value="${username}" /></Strong>
 </div>
+<div>
+<label><strong>If you want to add multiple quantities to cart  please click on "Add"" multiple times, If we click one time one product would be added,
+if we click two times on same link then qty 2 would be added </strong></label>
+</div>	
 <div align="center">
 
         <table border="1" cellpadding="5">
